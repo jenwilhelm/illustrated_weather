@@ -40,6 +40,8 @@ Temperatures are defined as follows (farenheit):
 
 `</body>`
 
+7. Figure out what to name this thing, get domain, add it to hosting, thow that puppy on the web. 
+
 ## Mockup
 
 Here's a mockup of what this could look like. Ignore the actual background and icons, I would create new illustrations for this.
