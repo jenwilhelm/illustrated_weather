@@ -16,8 +16,11 @@ Mockups and images will be provided by a designer (yours truly). Until then, jus
 Temperatures are defined as follows (farenheit):
 
 **Hot**: 85*+
+
 **Warm**: 60 - 84.9*
+
 **Cool**: 35 - 59.9*
+
 **Cold**: 34.9* or below
 
 ## Technical Requirements
