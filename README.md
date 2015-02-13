@@ -31,7 +31,7 @@ Temperatures are defined as follows (farenheit):
 2. Use javascript/jquery and the html5 geolocation api asking for and returning a location in the console by `console.log`ing (lat/long) when a user visits the page
 3. Use that location and pass it to a weather api to get back some weather (using jQuery's `$.ajax` method). `console.log` that to the console (still blank webpage at this point)
 4. Create a blank div in the html called `<div id="weather"></div>` or something
-5. Insert the location and current temperature into that div. Example:
+5. Insert the location and current temperature into that div (Example: 89*, Las Vegas NV)
 6. Once Jen gives you images, insert appropriate classnames into the html based on the temp (technically you can do this before you have the images, they just won't show). Example:
 
 `<body class="sunnySky sunnyCity>`
