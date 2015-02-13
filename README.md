@@ -7,8 +7,8 @@ A web (and eventually mobile) app that, when the site/app is visited, will ask t
 ## Business Rules
 
 * If weather is sunny AND warm, display sunny sky and warm city image
-* If weather is sunny AND cold, display sunny sky and cold city image
-* If weather is rainy AND warm, display rainy sky and warm city image
+* If weather is cloudy AND cold, display cloudy sky and cold city image
+* If weather is rainy AND hot, display rainy sky and hot city image
 * Etc...
 
 Mockups and images will be provided by a designer (yours truly). Until then, just worry about getting user's location and weather.
@@ -19,6 +19,13 @@ Temperatures are defined as follows (farenheit):
 * **Warm**: 60 - 84.9*
 * **Cool**: 35 - 59.9*
 * **Cold**: 34.9* or below
+
+Weather will be:
+
+* Sunny
+* Cloudy
+* Rainy
+* Snowy
 
 ## Technical Requirements
 
