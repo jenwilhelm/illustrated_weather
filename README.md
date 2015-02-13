@@ -41,3 +41,7 @@ Temperatures are defined as follows (farenheit):
 `</body>`
 
 ## Mockup
+
+Here's a mockup of what this could look like. Ignore the actual background and icons, I would create new illustrations for this.
+
+![illustrated_weather](https://cloud.githubusercontent.com/assets/223514/6180087/1598b916-b2d5-11e4-980b-6a5eb2267113.jpg)
