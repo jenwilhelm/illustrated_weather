@@ -43,6 +43,6 @@ Temperatures are defined as follows (farenheit):
 
 ## Mockup
 
-Here's a lil mockup of what this could look like, including a v2 feature (what to wear). Ignore the actual background and icons, I would create new illustrations for this.
+Here's a lil mockup of what this could look like, including a v2 feature (what to wear). Ignore the actual background and icons, I will create new illustrations for this project.
 
 ![illustrated_weather](https://cloud.githubusercontent.com/assets/223514/6180087/1598b916-b2d5-11e4-980b-6a5eb2267113.jpg)
