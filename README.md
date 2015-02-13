@@ -22,7 +22,7 @@ Temperatures are defined as follows (farenheit):
 
 ## Technical Requirements
 
-* Use the html5 Geolocation API (with jQuery) to ask for and get user's location
+* Use the [html5 Geolocation API](http://www.w3schools.com/html/html5_geolocation.asp) (with jQuery) to ask for and get user's location
 * Use any weather API of choice (with jQuery) to take user's location info and get weather info (just google "weather api" and see what looks promising... I think Yahoo has one that might be good)
 
 ## Pseudo-code step suggestions:
