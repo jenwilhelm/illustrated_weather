@@ -28,12 +28,12 @@ Temperatures are defined as follows (farenheit):
 ## Pseudo-code step suggestions:
 
 1. Get html/css/jquery files all set up and working (blank page to start)
-2. Use javascript/jquery and the html5 geolocation api asking for and returning a location in the console by `console.log`ing (lat/long) when a user visits the page
+2. Use javascript/jquery and the html5 geolocation api to ask for and return a location in the console by `console.log`ing (lat/long) when a user visits the page
 3. Use that location and pass it to a weather api to get back some weather (using jQuery's `$.ajax` method). `console.log` that to the console (still blank webpage at this point)
-4. Create a blank div in the html called `<div id="weather"></div>` or something
-5. Insert the location and current temperature into that div (Example: 89*, Las Vegas NV)
-6. Once Jen gives you images, insert appropriate classnames into the html based on the temp (technically you can do this before you have the images, they just won't show). Example below.
-7. Figure out what to name the app, get adomain, add it to hosting, thow this puppy on the web. 
+4. Create a blank div in the html called `<div id="weather"></div>` or something to that effect
+5. Insert the location and current temperature into that div (see mockup below)
+6. Once I give you images, insert appropriate classnames into the html based on the temperature (technically you can do this before you have the images, they just won't show). Code example below.
+7. Figure out what to name the app, get a domain, add it to hosting, then thow this puppy on the web. 
 
 `<body class="sunnySky sunnyCity>`
 
@@ -41,10 +41,8 @@ Temperatures are defined as follows (farenheit):
 
 `</body>`
 
-
-
 ## Mockup
 
-Here's a mockup of what this could look like. Ignore the actual background and icons, I would create new illustrations for this.
+Here's a lil mockup of what this could look like, including a v2 feature (what to wear). Ignore the actual background and icons, I would create new illustrations for this.
 
 ![illustrated_weather](https://cloud.githubusercontent.com/assets/223514/6180087/1598b916-b2d5-11e4-980b-6a5eb2267113.jpg)
